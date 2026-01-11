@@ -31,11 +31,6 @@
 - Implemented layouts, forms, and styling using pure HTML & CSS  
 - Strengthened frontend structure and UI design skills  
 
-### 🔹 Python Command Line Analyzer
-- Built a CLI-based Python project for text analysis  
-- Performs word count, character count, and unique word detection  
-- Demonstrates Python fundamentals and logical thinking  
-
 ### 🔹 AI Resume Screener & Career Guidance Tool
 - AI-powered resume analysis using NLP and ML techniques  
 - Matches resumes with suitable job roles using TF-IDF & cosine similarity  
