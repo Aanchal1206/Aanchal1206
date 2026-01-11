@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aanchal Pathak
+# Hi I'm Aanchal Pathak
 
 🎓 Second-Year AI & Data Science Student  
 🐍 Python Developer | 🌐 Web Development Basics | 🤖 AI Projects  
