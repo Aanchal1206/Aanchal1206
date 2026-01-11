@@ -47,6 +47,7 @@
 ![Aanchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aanchal1206&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchal1206&layout=compact&theme=tokyonight)
+![Test](https://github-readme-stats.vercel.app/api?username=Aanchal1206)
 
 ---
 
