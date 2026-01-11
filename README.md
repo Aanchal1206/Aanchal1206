@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋 I'm Aanchal Pathak
 
-<!--
-**Aanchal1206/Aanchal1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year AI & Data Science Student  
+🐍 Python Developer | 🌐 Web Development Basics | 🤖 AI Projects  
 
-Here are some ideas to get you started:
+🚀 I enjoy building beginner-to-intermediate level projects using Python, Streamlit, and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+- Second-year undergraduate in **AI & Data Science**
+- Strong foundation in **Python programming**
+- Learning **Data Science, AI & Machine Learning**
+- Interested in **health-tech, automation & career guidance systems**
+- Open to **internships, collaborations & learning opportunities**
+
+---
+
+## 🛠 Skills & Tools
+**Languages:** Python, C, C++, HTML, CSS  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, NLTK  
+**Tools:** Git, GitHub, VS Code, Streamlit, Canva  
+**Concepts:** Data Analysis, NLP Basics, Machine Learning Fundamentals
+
+---
+
+## 🚀 Projects
+
+### 🔹 Responsive Website (HTML & CSS)
+- Designed and developed a static responsive website  
+- Implemented layouts, forms, and styling using pure HTML & CSS  
+- Strengthened frontend structure and UI design skills  
+
+### 🔹 Python Command Line Analyzer
+- Built a CLI-based Python project for text analysis  
+- Performs word count, character count, and unique word detection  
+- Demonstrates Python fundamentals and logical thinking  
+
+### 🔹 AI Resume Screener & Career Guidance Tool
+- AI-powered resume analysis using NLP and ML techniques  
+- Matches resumes with suitable job roles using TF-IDF & cosine similarity  
+- Provides personalized career improvement tips  
+- Built using **Python, Streamlit, NLTK & Scikit-learn**
+
+---
+
+## 📊 GitHub Stats
+![Aanchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aanchal1206&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchal1206&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Currently Learning
+- Advanced Python for Data Science  
+- Streamlit application development  
+- Machine Learning algorithms  
+- Improving problem-solving skills  
+
+---
+
+## 📬 Connect With Me
+- 🐙 GitHub: https://github.com/Aanchal1206  
+- 💼 LinkedIn: (www.linkedin.com/in/aanchalpatha) 
+- 📧 Email: (aanchal12pathak@gmail.com)
