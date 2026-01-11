@@ -42,14 +42,6 @@
 - Provides personalized career improvement tips  
 - Built using **Python, Streamlit, NLTK & Scikit-learn**
 
----
-## 📊 GitHub Stats
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aanchal1206&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aanchal1206&layout=compact&theme=tokyonight)
 
 
 
