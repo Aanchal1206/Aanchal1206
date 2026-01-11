@@ -26,7 +26,7 @@
 
 ## 🚀 Projects
 
-### 🔹 Responsive Website (HTML & CSS)
+### 🔹 Responsive Travel Website (HTML & CSS)
 - Designed and developed a static responsive website  
 - Implemented layouts, forms, and styling using pure HTML & CSS  
 - Strengthened frontend structure and UI design skills  
