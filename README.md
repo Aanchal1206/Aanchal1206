@@ -53,5 +53,5 @@
 
 ## 📬 Connect With Me
 - 🐙 GitHub: https://github.com/Aanchal1206  
-- 💼 LinkedIn: (www.linkedin.com/in/aanchalpatha) 
+- 💼 LinkedIn: (www.linkedin.com/in/aanchalpathak) 
 - 📧 Email: (aanchal12pathak@gmail.com)
