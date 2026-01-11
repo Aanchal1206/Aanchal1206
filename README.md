@@ -42,8 +42,11 @@
 - Provides personalized career improvement tips  
 - Built using **Python, Streamlit, NLTK & Scikit-learn**
 
-
-
+##🌱 What I’m Working On
+- Building real-world projects using Python & Streamlit  
+- Improving problem-solving skills  
+- Learning Machine Learning step by step  
+- Exploring AI applications in health-tech & automation
 
 ## 📈 Currently Learning
 - Advanced Python for Data Science  
