@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Skills & Tools
-**Languages:** Python, C, C++, HTML, CSS  
+**Languages:** Python, C, C++, HTML, CSS  ,SQL(Basic)
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, NLTK  
 **Tools:** Git, GitHub, VS Code, Streamlit, Canva  
 **Concepts:** Data Analysis, NLP Basics, Machine Learning Fundamentals
